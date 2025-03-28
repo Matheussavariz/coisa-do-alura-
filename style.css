@@ -90,9 +90,9 @@ section {
     
     :root {
         --laranja-claro: #FF862A;
-        --alto-contraste-fundo: #836c6c;
-        --alto-contraste-texto: #ffffff;
-        --alto-contraste-link: #ffd700;
+        --alto-contraste-fundo: #000000;
+        --alto-contraste-texto: #ffffff00;
+        --alto-contraste-link: #65fa2a;
     }
     
     body {
@@ -213,7 +213,7 @@ section {
         /* Espaçamento interno dentro do formulário */
         border-radius: 10px;
         /* Borda arredondada para o formulário */
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 0 10px rgba(24, 94, 199, 0.1);
         /* Sombra suave para destacar o formulário */
         font-weight: bold;
     }
