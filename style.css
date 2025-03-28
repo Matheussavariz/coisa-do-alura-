@@ -190,7 +190,7 @@ section {
     }
     
     #galeria {
-        background-color: #FAF4F4;
+        background-color: #000000;
     
     }
     
@@ -208,7 +208,7 @@ section {
     }
     
     .formulario {
-        background-color: #ffffff;
+        background-color: #20dce2;
         padding: 2rem;
         /* Espaçamento interno dentro do formulário */
         border-radius: 10px;
@@ -302,7 +302,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #22b4ce;
 
 }
 
